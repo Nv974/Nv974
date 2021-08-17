@@ -6,6 +6,8 @@
 <a href = "https://www.linkedin.com/in/nicolas-vitry-0510711a1/"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="48"> </a>linkedin.com/in/nicolas-vitry-0510711a1/<br/>
 <a mailto : nv.nicolasvitry@gmail.com><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" width="48"></a> nv.nicolasvitry@gmail.com
 
+[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub] Source Han Sans)
+
 ## Skills
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
