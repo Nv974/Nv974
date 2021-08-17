@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Laravel PHP Framework, i like to build API, it's so satisfying
 - The next technologies that I would like to learn are React Native and NodeJs
 - 📫 How to reach me 
+- <img src="https://github.com/favicon.ico" width="48">
+
   [![image](https://image.flaticon.com/icons/png/512/174/174857.png = 50x50)](https://www.linkedin.com/in/nicolas-vitry-0510711a1/)
 
 
