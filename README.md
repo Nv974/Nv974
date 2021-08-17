@@ -6,8 +6,8 @@
 ## Contact
 
 <p>
-<a href = "https://www.linkedin.com/in/nicolas-vitry-0510711a1/"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="48"> </a>linkedin.com/in/nicolas-vitry-0510711a1/<br/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" width="48"> nv.nicolasvitry@gmail.com
+<a href = "https://www.linkedin.com/in/nicolas-vitry-0510711a1/"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="28"> </a>linkedin.com/in/nicolas-vitry-0510711a1/<br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" width="28"> nv.nicolasvitry@gmail.com
 </p>
 
 ## Skills
