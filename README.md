@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Laravel PHP Framework, i like to build API, it's so satisfying
 - The next technologies that I would like to learn are React Native and NodeJs
 - 📫 How to reach me 
-  [LinkedIn](https://www.linkedin.com/in/nicolas-vitry-0510711a1/)
+  [![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/nicolas-vitry-0510711a1/)
 
 
 ## Skills
