@@ -4,7 +4,7 @@
 - The next technologies that I would like to learn are React Native and NodeJs
 - 📫 How to reach me 
 
-<a href = "https://www.linkedin.com/in/nicolas-vitry-0510711a1/"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png " width="48"> </a>
+<a href = "https://www.linkedin.com/in/nicolas-vitry-0510711a1/"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="48"> </a>
 
 
 
