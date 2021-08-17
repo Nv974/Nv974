@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nicolas
 - 👀 I’m interested in Web development, I'm specialised in front-end development but I'm also interested in back development
 - 🌱 I’m currently learning Laravel PHP Framework, i like to build API, it's so satisfying
-- The next technologies that I would like to learn are React Native and NodeJs
+- The next technologies that I would like to learn are React Native and NodeJs </br>
 - 📫 How to reach me 
 
 <a href = "https://www.linkedin.com/in/nicolas-vitry-0510711a1/"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="48"> </a>linkedin.com/in/nicolas-vitry-0510711a1/<br/>
