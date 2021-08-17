@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 
 <a href = "https://www.linkedin.com/in/nicolas-vitry-0510711a1/"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="48"> </a>
-<a mailto:nv.nicolasvitry@gmail.com> <img src="https://img2.freepng.fr/20171216/db8/gmail-logo-png-5a35539e9d3ca0.0446481115134442546441.jpg" width="48"> </a>
+<img src="https://img2.freepng.fr/20171216/db8/gmail-logo-png-5a35539e9d3ca0.0446481115134442546441.jpg" width="48"> nv.nicolasvitry@gmail.com
 
 
 
